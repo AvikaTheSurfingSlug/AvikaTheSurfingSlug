@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AvikaTheSurfingSlug
-- 👀 I’m interested in javascript and python
+- 👋 Hi, I’m @awormy
+- 👀 I’m interested in computer science and astrophysics
 - 🌱 I’m currently learning python
 
 <!---
